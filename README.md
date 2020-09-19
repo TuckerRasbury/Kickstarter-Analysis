@@ -1,2 +1,2 @@
-# Kickstarter-Analysis
-Performing analysis on Kickstarter data to identify trends
+# An-Analysis-of-Kickstarter-Campaigns
+Herein lies ananalyzed data concerning fundraising campaigns, compiled for the benefit of our client, Louise. Our client intends to use this analysis to improve the likelihood of success of her own fundraising campaign. to assist her with her campaign, we analyzed fundraising campaign data using time series, geographic, and outcome variables available in the dataset and identified the central tendencies of the dataset by outcome.
