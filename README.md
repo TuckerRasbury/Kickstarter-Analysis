@@ -5,3 +5,4 @@ In short, we found that campaigns supporting plays launched in April, May, or Ju
 --
 ##Analysis
 ![](Success%20of%20Campaigns%20over%20Time.png)
+![](OutcomesbySubcategory.png)
