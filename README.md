@@ -5,7 +5,7 @@ Herein lies analyzed data concerning fundraising campaigns, compiled for the ben
 In short, we found that campaigns supporting theater and more specifically plays launched in April, May, or June (or Q2 of a year) with a goal of approximately $5,000 would likely obtain 3/5ths of that amount or more and received more money per average pledge. However, we found that the higher the goal amount the lower the average amount per pledge.
 
 ---
-I recommend that Louise categorizes her work under theaters and subcategorizes it as a play, putting the goal around 5,000 depending on her funding needs. Most importantly, the campaign should be launched in Q2 of the year. Outcomes change materially before and after Q2.
+I recommend that Louise categorizes her work under theater and subcategorizes it as a play, putting the goal around 5,000 depending on her funding needs. Most importantly, the campaign should be launched in Q2 of the year. Outcomes change materially before and after Q2.
 
 ---
 ##Analysis
