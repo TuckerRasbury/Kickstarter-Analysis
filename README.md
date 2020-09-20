@@ -4,4 +4,4 @@ Herein lies ananalyzed data concerning fundraising campaigns, compiled for the b
 In short, we found that campaigns supporting plays launched in April, May, or June (or Q2 of a year) with a goal of approximately $5,000 would likely obtain 3/5ths of that amount or more and received more money per average pledge. However, we found that the higher the goal amount the lower the average amount per pledge.
 --
 ##Analysis
-![Success of Campaigns over Time.png](path/to/Success of Campaigns over Time.png)
+![Success of Campaigns over Time.png]
