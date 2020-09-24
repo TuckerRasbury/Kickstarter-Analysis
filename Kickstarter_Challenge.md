@@ -35,7 +35,7 @@ variable "launched at" into usable and readable information using a unix time co
 After that, I created a pivot table on the available data to aggregate outcomes at month intervals 
 and charted those figures over time to show how launch date contributes to a campaigns outcome. 
 
-![](Theater_outcomes_vs_Launch.png)
+![](Theater_Outcomes_vs_Launch.png)
 
 Here we can take away two key conclusions. The first conclusion is that campaigns launched in 
 Q2 of a year had the highest rate of success. The second conclusion is that the most uncertain time of year
